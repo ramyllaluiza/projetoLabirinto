@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1696349024 source:/home/ramy/Documentos/projeto2_labirinto/coord.cpp
+	"coord.h"
+
+1696349003 /home/ramy/Documentos/projeto2_labirinto/coord.h
+	<iostream>
+	<cmath>
+
+1696349678 source:/home/ramy/Documentos/projeto2_labirinto/main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1696371901 source:/home/ramy/Documentos/projeto2_labirinto/labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<cmath>
+	<algorithm>
+	<vector>
+	"labirinto.h"
+	"NoH.h"
+	"coord.h"
+
+1696372195 /home/ramy/Documentos/projeto2_labirinto/labirinto.h
+	<vector>
+	"coord.h"
+
+1696349748 /home/ramy/Documentos/projeto2_labirinto/NoH.h
+
+1696349024 source:/home/ramylla/Downloads/projeto2_labirinto/coord.cpp
+	"coord.h"
+
+1696349003 /home/ramylla/Downloads/projeto2_labirinto/coord.h
+	<iostream>
+	<cmath>
+
+1696349678 source:/home/ramylla/Downloads/projeto2_labirinto/main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1696595024 /home/ramylla/Downloads/projeto2_labirinto/labirinto.h
+	<vector>
+	"coord.h"
+
+1696595303 source:/home/ramylla/Downloads/projeto2_labirinto/labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<cmath>
+	<algorithm>
+	<vector>
+	"labirinto.h"
+	"coord.h"
+
+1696349024 source:/home/ramy/Downloads/projeto2_labirinto/coord.cpp
+	"coord.h"
+
+1696349003 /home/ramy/Downloads/projeto2_labirinto/coord.h
+	<iostream>
+	<cmath>
+
+1696349678 source:/home/ramy/Downloads/projeto2_labirinto/main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1696595024 /home/ramy/Downloads/projeto2_labirinto/labirinto.h
+	<vector>
+	"coord.h"
+
+1696687798 source:/home/ramy/Downloads/projeto2_labirinto/labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<cmath>
+	<algorithm>
+	<vector>
+	"labirinto.h"
+	"coord.h"
+
